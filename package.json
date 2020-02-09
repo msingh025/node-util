@@ -1,6 +1,6 @@
 {
   "name": "node-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this util for iot project, main purpose of this moulde is supply the date utli, json pareser, string converter etc ",
   "main": "index.js",
   "scripts": {

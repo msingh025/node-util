@@ -4,7 +4,7 @@
   "description": "this util for iot project, main purpose of this moulde is supply the date utli, json pareser, string converter etc ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": " node ./test/a.js"
   },
   "repository": {
     "type": "git",
